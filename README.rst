@@ -1,4 +1,4 @@
-stocktrends
+ZETATRENDS
 ===========
 
 A python package to calcuate trends in Forex/Crypto/Stocks markets.
